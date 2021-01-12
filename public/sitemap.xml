@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://koti3.gitlab.io/personal-website/blog/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://koti3.gitlab.io/personal-website/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://koti3.gitlab.io/personal-website/tags/productivity/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://koti3.gitlab.io/personal-website/tags/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://koti3.gitlab.io/personal-website/blog/the-power-of-study-groups/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://koti3.gitlab.io/personal-website/tags/datascience/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://koti3.gitlab.io/personal-website/tags/machine-learning/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://koti3.gitlab.io/personal-website/tags/opensource/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://koti3.gitlab.io/personal-website/tags/python/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://koti3.gitlab.io/personal-website/blog/updating-an-important-but-stale-python-library/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://koti3.gitlab.io/personal-website/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://koti3.gitlab.io/personal-website/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://koti3.gitlab.io/personal-website/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://koti3.gitlab.io/personal-website/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://koti3.gitlab.io/personal-website/search/</loc>
+  </url>
+  
+</urlset>

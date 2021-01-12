@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://koti3.gitlab.io/personal-website/sitemap.xml

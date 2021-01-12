@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>datascience on Menelaos Kotoglou</title>
+    <link>https://koti3.gitlab.io/personal-website/tags/datascience/</link>
+    <description>Recent content in datascience on Menelaos Kotoglou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://koti3.gitlab.io/personal-website/tags/datascience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Updating an important but stale Python library</title>
+      <link>https://koti3.gitlab.io/personal-website/blog/updating-an-important-but-stale-python-library/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://koti3.gitlab.io/personal-website/blog/updating-an-important-but-stale-python-library/</guid>
+      <description>The project is based on a “profanity-check” library created by Victor Zhou. You can read more about it here and find it online here: https://github.com/vzhou842/profanity-check. Firstly, we installed the library in a virtual environment and experimented with different samples.
+We tested the model with an internal dataset consisting of 850 tweets retrieved through Twitter’s sampling API then labeled manually. This produced the following results:
+Confusion Matrix
+   ActualPredicted Not Profane (0) Profane (1)     Not Profane (0) 703 14   Profane (1) 93 39    Accuracy Score: 87.</description>
+    </item>
+    
+  </channel>
+</rss>

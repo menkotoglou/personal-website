@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Menelaos Kotoglou</title>
+    <link>https://koti3.gitlab.io/personal-website/tags/</link>
+    <description>Recent content in Tags on Menelaos Kotoglou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://koti3.gitlab.io/personal-website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>productivity</title>
+      <link>https://koti3.gitlab.io/personal-website/tags/productivity/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://koti3.gitlab.io/personal-website/tags/productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>datascience</title>
+      <link>https://koti3.gitlab.io/personal-website/tags/datascience/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://koti3.gitlab.io/personal-website/tags/datascience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://koti3.gitlab.io/personal-website/tags/machine-learning/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://koti3.gitlab.io/personal-website/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>opensource</title>
+      <link>https://koti3.gitlab.io/personal-website/tags/opensource/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://koti3.gitlab.io/personal-website/tags/opensource/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://koti3.gitlab.io/personal-website/tags/python/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://koti3.gitlab.io/personal-website/tags/python/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
