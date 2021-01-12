@@ -1,4 +1,4 @@
-baseURL: "/https://koti3.gitlab.io/personal-website/"
+baseURL: "https://koti3.gitlab.io/personal-website/"
 title: Menelaos Kotoglou
 paginate: 5
 theme: "hugo-PaperMod"
