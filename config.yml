@@ -8,93 +8,92 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+googleAnalytics: UA-187316050-1
 
 minify:
-    disableXML: true
-    minifyOutput: true
+  disableXML: true
+  minifyOutput: true
 
 outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON
+  home:
+    - HTML
+    - RSS
+    - JSON
 
 params:
-    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Menelaos Kotoglou
+  description: "Menelaos Kotoglou Blog"
+  author: Menelaos Kotoglou
+
+  images: "<link or path of image for opengraph, twitter-cards>"
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  comments: true
+  defaultTheme: auto
+  disableThemeToggle: false
+  disableSpecial1stPost: false
+
+  label:
+    # icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
     title: Menelaos Kotoglou
-    description: "Menelaos Kotoglou Blog"
-    author: Menelaos Kotoglou
+    # imageUrl: '/myphoto.jpg'
+    imageTitle: Menelaos Kotoglou
 
-    images: "<link or path of image for opengraph, twitter-cards>"
+  # home-info mode
+  # homeInfoParams:
+  #     Title: "Hi there \U0001F44B"
+  #     Content: Welcome to my blog
 
-    ShowReadingTime: true
-    ShowShareButtons: true
-    comments: true
-    defaultTheme: auto
-    disableThemeToggle: false
-    disableSpecial1stPost: false
+  socialIcons:
+    - name: github
+      url: "https://github.com/koti"
+    - name: gitlab
+      url: "https://gitlab.com/koti3"
+    - name: stackoverflow
+      url: "https://stackoverflow.com/users/12869054/koti"
+    - name: hackerrank
+      url: "https://www.hackerrank.com/menelaoskotoglou"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/menelaos-kotoglou-124643178/"
+    - name: dev
+      url: "https://dev.to/koti"
+    - name: medium
+      url: "https://menelaoskotoglou.medium.com/"
+    - name: email
+      url: "contact/"
+    - name: twitter
+      url: "https://twitter.com/MKotoglou"
 
-    label:
-        # icon: /apple-touch-icon.png
-        iconHeight: 35
-
-    # profile-mode
-    profileMode:
-        enabled: true # needs to be explicitly set
-        title: Menelaos Kotoglou
-        # imageUrl: '/myphoto.jpg'
-        imageTitle: Menelaos Kotoglou
-
-    # home-info mode
-    # homeInfoParams:
-    #     Title: "Hi there \U0001F44B"
-    #     Content: Welcome to my blog
-
-    socialIcons:
-        - name: github
-          url: "https://github.com/koti"
-        - name: gitlab
-          url: "https://gitlab.com/koti3"
-        - name: stackoverflow
-          url: "https://stackoverflow.com/users/12869054/koti"
-        - name: hackerrank
-          url: "https://www.hackerrank.com/menelaoskotoglou"
-        - name: linkedin
-          url: "https://www.linkedin.com/in/menelaos-kotoglou-124643178/"
-        - name: dev
-          url: "https://dev.to/koti"
-        - name: medium
-          url: "https://menelaoskotoglou.medium.com/"
-        - name: email
-          url: "contact/"
-        - name: twitter
-          url: "https://twitter.com/MKotoglou"
-
-
-    analytics:
-        google:
-            SiteVerificationTag: "XYZabc"
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
 
 menu:
-    main:
-        - identifier: about
-          name: About
-          url: /about/
-          weight: 10
-        - identifier: projects
-          name: Projects
-          url: /projects/
-          weight: 10
-        - identifier: blog
-          name: Blog
-          url: /blog/
-          weight: 10
-        - identifier: contact
-          name: Contact
-          url: /contact/
-          weight: 15
-        - identifier: search
-          name: Search
-          url: /search/
-          weight: 20
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 10
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 10
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 15
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 20
