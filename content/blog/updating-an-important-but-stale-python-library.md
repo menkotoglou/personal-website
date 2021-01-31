@@ -11,9 +11,9 @@ draft: false
 hidemeta: false
 disableShare: false
 cover:
-    image: "<image path/url>"
+    image: "images/readingroom.jpg"
     alt: "<alt text>"
-    caption: "<text>"
+    caption: ""
     relative: false
 comments: true
 ---

@@ -11,9 +11,9 @@ draft: false
 hidemeta: false
 disableShare: false
 cover:
-    image: "<image path/url>"
-    alt: "<alt text>"
-    caption: "<text>"
+    image: "images/scott-graham-5fNmWej4tAA-unsplash.jpg"
+    alt: "scott-graham"
+    caption: ""
     relative: false
 comments: true
 ---
