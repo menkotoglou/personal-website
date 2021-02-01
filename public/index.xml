@@ -10,75 +10,75 @@
       <title>The Power Of Study Groups</title>
       <link>https://www.menelaoskotoglou.com/blog/the-power-of-study-groups/</link>
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
-      
+
       <guid>https://www.menelaoskotoglou.com/blog/the-power-of-study-groups/</guid>
       <description>Undoubtedly, the Covid-19 crisis has changed students’ habits a lot. Old habits, such as hanging out, drinking beers, watching movies and even studying together have almost torn apart since most countries are experiencing the second Coronavirus wave.
 As a student, I decided to take advantage of the time gained from the situation to work on myself, my skills and my academic performance. Especially when the University’s workload increases, keeping yourself disciplined and focused on your goals becomes even harder.</description>
     </item>
-    
+
     <item>
       <title>Updating an important but stale Python library</title>
       <link>https://www.menelaoskotoglou.com/blog/updating-an-important-but-stale-python-library/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      
+
       <guid>https://www.menelaoskotoglou.com/blog/updating-an-important-but-stale-python-library/</guid>
       <description>The project is based on a “profanity-check” library created by Victor Zhou. You can read more about it here and find it online here: https://github.com/vzhou842/profanity-check. Firstly, we installed the library in a virtual environment and experimented with different samples.
 We tested the model with an internal dataset consisting of 850 tweets retrieved through Twitter’s sampling API then labeled manually. This produced the following results:
 Confusion Matrix
    ActualPredicted Not Profane (0) Profane (1)     Not Profane (0) 703 14   Profane (1) 93 39    Accuracy Score: 87.</description>
     </item>
-    
+
     <item>
       <title>Republishing and maintaining Profanity-check</title>
       <link>https://www.menelaoskotoglou.com/blog/republishing-and-maintaining-profanity-check/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      
+
       <guid>https://www.menelaoskotoglou.com/blog/republishing-and-maintaining-profanity-check/</guid>
       <description>As previously posted here: https://dev.to/koti/updating-an-important-but-stale-python-library-3o6i, me and Dimitry cooperated on updating a Python library important for the smooth operations of his company.
 Unfortunately, it seems that its original author never accepted our previous Pull Request to revive the profanity-check package. As a result, Github issues were kept being opened by other developers asking about the library and issues they had while using it. What surprised us the most, was this one: https://github.</description>
     </item>
-    
+
     <item>
       <title>About Me</title>
       <link>https://www.menelaoskotoglou.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>https://www.menelaoskotoglou.com/about/</guid>
       <description>I am an ambitious and highly motivated student. A keen learner who loves and follows new technology trends. Highly interested in Data Science, Machine Learning, and Software Development. I am continually looking for interesting open-source projects to contribute.
 Additionally, I have a great passion for milk chocolate and travelling.
 Skills  Languages  Python SQL | MySQL Java HTML | CSS | JavaScript Familliar with PHP Familliar with Golang   Libraries  Pandas NumPy   Frameworks  Scikit-Learn Familliar with TensorFlow Familliar with Django Familliar with Laravel   Other Skills  Version-control (Git) Open-source development workflows Pelican | Static Site Generator Hugo | Static Site Generator Markdown  Education  Bachelor of Engineering - BE, Computer Engineering and Informatics</description>
     </item>
-    
+
     <item>
       <title>Contact Me</title>
       <link>https://www.menelaoskotoglou.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>https://www.menelaoskotoglou.com/contact/</guid>
       <description>Feel free to contact me. I am continually looking for feedback, tips, and comments to get better. You can also reach out to me for collaborations.
 My email: contact@menelaoskotoglou.com
 You can also contact me through my social media accounts.</description>
     </item>
-    
+
     <item>
       <title>Projects</title>
       <link>https://www.menelaoskotoglou.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>https://www.menelaoskotoglou.com/projects/</guid>
       <description>Profanity-check by Victor Zhou Contributor
  Reverse engineered training script. Updated versions of scikit-learn and included it in setup.py and requirements.txt. Retrained model with the provided training data and updated version. Dropped support for Python3.5, since it was no longer compatible with current scikit-learn version. Fixed the test suite.   Bin information parsing for Premier Payments Online Creator
  Managed multiple &amp;ldquo;.csv&amp;rdquo; files using Pandas library. Created a script to parse valuable info from various transactions done.</description>
     </item>
-    
+
     <item>
       <title>Search</title>
       <link>https://www.menelaoskotoglou.com/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>https://www.menelaoskotoglou.com/search/</guid>
       <description>search</description>
     </item>
-    
+
   </channel>
 </rss>
