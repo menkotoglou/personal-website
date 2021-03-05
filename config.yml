@@ -43,7 +43,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Menelaos Kotoglou
-    # imageUrl: '/myphoto.jpg'
+    # imageUrl: 'images/myphoto.jpg'
     imageTitle: Menelaos Kotoglou
 
   # home-info mode
