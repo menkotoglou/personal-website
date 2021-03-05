@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: menelaoskotoglou.com
-Token: ce25a73e8490767832d6dae920ef27e6a175fff72ef14e8818212fe3be4d25d0
