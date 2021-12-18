@@ -53,7 +53,7 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/koti"
+      url: "https://github.com/menkotoglou"
     - name: gitlab
       url: "https://gitlab.com/koti3"
     - name: stackoverflow
