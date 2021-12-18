@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>maintenance on Menelaos Kotoglou</title>
+    <link>https://www.menelaoskotoglou.com/tags/maintenance/</link>
+    <description>Recent content in maintenance on Menelaos Kotoglou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 31 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.menelaoskotoglou.com/tags/maintenance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Republishing and maintaining Profanity-check</title>
+      <link>https://www.menelaoskotoglou.com/blog/republishing-and-maintaining-profanity-check/</link>
+      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.menelaoskotoglou.com/blog/republishing-and-maintaining-profanity-check/</guid>
+      <description>As previously posted here: https://dev.to/koti/updating-an-important-but-stale-python-library-3o6i, me and Dimitry cooperated on updating a Python library important for the smooth operations of his company.
+Unfortunately, it seems that its original author never accepted our previous Pull Request to revive the profanity-check package. As a result, Github issues were kept being opened by other developers asking about the library and issues they had while using it. What surprised us the most, was this one: https://github.</description>
+    </item>
+    
+  </channel>
+</rss>

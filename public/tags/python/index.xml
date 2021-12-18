@@ -5,28 +5,28 @@
     <link>https://www.menelaoskotoglou.com/tags/python/</link>
     <description>Recent content in python on Menelaos Kotoglou</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.menelaoskotoglou.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.menelaoskotoglou.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Republishing and maintaining Profanity-check</title>
+      <link>https://www.menelaoskotoglou.com/blog/republishing-and-maintaining-profanity-check/</link>
+      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.menelaoskotoglou.com/blog/republishing-and-maintaining-profanity-check/</guid>
+      <description>As previously posted here: https://dev.to/koti/updating-an-important-but-stale-python-library-3o6i, me and Dimitry cooperated on updating a Python library important for the smooth operations of his company.
+Unfortunately, it seems that its original author never accepted our previous Pull Request to revive the profanity-check package. As a result, Github issues were kept being opened by other developers asking about the library and issues they had while using it. What surprised us the most, was this one: https://github.</description>
+    </item>
+    
     <item>
       <title>Updating an important but stale Python library</title>
       <link>https://www.menelaoskotoglou.com/blog/updating-an-important-but-stale-python-library/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-
+      
       <guid>https://www.menelaoskotoglou.com/blog/updating-an-important-but-stale-python-library/</guid>
       <description>The project is based on a “profanity-check” library created by Victor Zhou. You can read more about it here and find it online here: https://github.com/vzhou842/profanity-check. Firstly, we installed the library in a virtual environment and experimented with different samples.
 We tested the model with an internal dataset consisting of 850 tweets retrieved through Twitter’s sampling API then labeled manually. This produced the following results:
 Confusion Matrix
    ActualPredicted Not Profane (0) Profane (1)     Not Profane (0) 703 14   Profane (1) 93 39    Accuracy Score: 87.</description>
     </item>
-
-    <item>
-      <title>Republishing and maintaining Profanity-check</title>
-      <link>https://www.menelaoskotoglou.com/blog/republishing-and-maintaining-profanity-check/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-
-      <guid>https://www.menelaoskotoglou.com/blog/republishing-and-maintaining-profanity-check/</guid>
-      <description>As previously posted here: https://dev.to/koti/updating-an-important-but-stale-python-library-3o6i, me and Dimitry cooperated on updating a Python library important for the smooth operations of his company.
-Unfortunately, it seems that its original author never accepted our previous Pull Request to revive the profanity-check package. As a result, Github issues were kept being opened by other developers asking about the library and issues they had while using it. What surprised us the most, was this one: https://github.</description>
-    </item>
-
+    
   </channel>
 </rss>
