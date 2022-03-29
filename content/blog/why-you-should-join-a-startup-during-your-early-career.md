@@ -36,6 +36,7 @@ Some of the critical factors that helped me get along so well during the job:
 - An early-stage startup building lots of tech from scratch. As a result, questions and challenges regarding querying, software architecture, and data management are a daily phenomenon. 
 - You'll get familiar with many different software aspects. As a student, I didn't have the chance to play with webservers, requests, or APIs. I heard them as general terms but didn't have the opportunity to apply the theoretical knowledge to a real-life project.
 - Building your soft skills that are **so important** as an engineer. Behaving and communicating your thoughts with the rest of the team and learning to understand the business needs and transform them into cool features.
+- Learning to prioritize work needed from multiple sources. Especially as a Junior Dev, doing the proper work prioritization coming from the business is critical for the company and you. You'll most probably need much mentoring on this (at least that happened for me), but you'll identify better company-wide goals and needs in no time.
 
 ## Business benefits
 
